@@ -1,0 +1,1 @@
+VK.Widgets.Poll("vk_poll",  {width: 300 }, "238433038_e4640101aaa0b75f8c");
